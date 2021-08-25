@@ -29,7 +29,7 @@
 XSS (Cross Site Scripting) attack is performed on a website of Bank Management System using Kali Linux and Burp Suite
 
 ## Tools Used
--- Burp Suit\n
--- Kali Linux
--- Mozilla Firefox
--- XSSER
+* Burp Suit
+* Kali Linux
+* Mozilla Firefox
+* XSSER
